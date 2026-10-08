@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This repository is the front door to a set of plain-language kits for the governance of AI agents at work. Each kit explains one governance question in simple words. Each kit also gives an agent skill that your AI agent can use with you. This repository links the eight kits together, and it gives you a place to start.
+This repository is the front door to a set of simple guides that help you keep AI agents at work safe and under control. Each kit explains one governance question in simple words. Each kit also gives a ready-made skill that your AI agent can use with you. This repository links the eight kits together, and it gives you a place to start.
 
 ![A map of eight governance questions for an AI agent at work: identity, harm, risk tier, delegated authority, audit trail, behavioral rules, sovereignty, and incident response. Each question has a kit, and one install gives you all eight.](assets/governance-map.svg)
 
@@ -14,7 +14,7 @@ npx skills add ams-builds/agent-governance-kit
 
 This command installs all eight agent skills for Claude Code, Codex, GitHub Copilot, and other agents.
 
-*Do you want the technical words in plain English? Refer to the [Jargon Buster](JARGON.md).*
+*Do you want simple meanings for the technical words? Refer to the [Jargon Buster](JARGON.md).*
 
 ## What problem does it solve?
 
