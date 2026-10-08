@@ -22,7 +22,7 @@ When you put an AI agent to work, it can act for you, use your data, and affect 
 
 ## Who is it for?
 
-This kit is for small teams and solo builders who put AI agents into real work. You do not need to be a risk specialist. A checklist for personal agents is planned if people ask for it.
+This kit is for small teams, teams that grow quickly, and solo builders who put AI agents into real work. You do not need to be a specialist in risk, cybersecurity, governance, or safety. A checklist for personal agents is planned if people ask for it.
 
 ## Start here
 
