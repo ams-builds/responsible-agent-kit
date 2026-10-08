@@ -1,0 +1,33 @@
+aegis-sovereign-ai-explained
+Copyright 2026 AMS
+
+This product is an independent plain-language explainer and agent skill based on:
+
+  Title:   AegisSovereignAI
+  Author:  InfiniEdge AI at LF Edge (https://github.com/lfedgeai). Main contributor:
+           ramkri123 (https://github.com/ramkri123)
+  Source:  https://github.com/lfedgeai/AegisSovereignAI
+           (commit 091712727f026c1d571c9b98f4adc7cbb9829613, 30 August 2026,
+           Hybrid Cloud PoC version 0.2.0)
+  License: Apache License 2.0 (see LICENSE)
+
+The source repository has no NOTICE file.
+
+This is not an official part of the source project.
+
+Changes made:
+  1. The main concepts are written again in Simplified Technical English.
+  2. The enterprise use cases are changed into four questions for a small team.
+     The four questions and the data-map method are new.
+  3. Three new diagrams.
+  4. A new agent skill (SKILL.md) that applies the questions to one agent.
+  5. No code, proofs, or PoC files are copied. The skill refers to the source
+     documents by their file paths.
+
+Language: written in Simplified Technical English (ASD-STE100). The idea to ask an
+AI model to write in ASD-STE100 comes from Andrej Karpathy
+(https://github.com/karpathy, https://x.com/karpathy/status/2105819303471976479).
+Text written and checked with the simplified-technical-english agent skill by pili
+(https://github.com/0xpili, https://github.com/0xpili/simplified-technical-english).
+ASD-STE100 is a specification and registered trade mark of ASD (AeroSpace and
+Defence Industries Association of Europe). This repository is not related to ASD.

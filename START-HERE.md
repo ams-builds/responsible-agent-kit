@@ -1,6 +1,6 @@
 # Start here
 
-Answer these five questions about your agent. Each "yes" points you to a kit.
+Answer these eight questions about your agent. Each "yes" points you to a kit.
 
 1. **Does your agent act under a name that other people or agents must trust?**
    A name is easy to copy, so people need proof that the agent is really yours.
@@ -14,12 +14,24 @@ Answer these five questions about your agent. Each "yes" points you to a kit.
    A higher risk needs more controls, and a person must confirm the most serious decisions.
    Go to the risk tier kit: [dpi-ai-governance-explained](https://github.com/ams-builds/dpi-ai-governance-explained)
 
-4. **Does your agent act for another person, with that person's permissions?** (planned)
-   You must know who gave the permission, what it covers, and how to stop it.
+4. **Does your agent act for another person, with that person's permissions?**
+   An API key shows what the agent can access, not what it has permission to do for this task.
+   Go to the delegated authority kit: [oaaf-explained](https://github.com/ams-builds/oaaf-explained)
 
-5. **Will you need to prove later what your agent did?** (planned)
-   A record that nobody can change lets you show what happened, and why.
+5. **Will you need to prove later what your agent did?**
+   A usual log file is easy to change. A signed record lets you show what happened.
+   Go to the audit trail kit: [agent-receipts-explained](https://github.com/ams-builds/agent-receipts-explained)
 
-Also planned: sovereignty (where your data goes, and which laws apply to it) and incident response (what to do when the agent goes wrong).
+6. **Is there a written list of what your agent must never do?**
+   If the rules are not written down, a user, a web page, or a document can change the behavior of the agent.
+   Go to the behavioral rules kit: [agent-governance-spec-explained](https://github.com/ams-builds/agent-governance-spec-explained)
+
+7. **Does the data of your agent go to a different company or country?**
+   Each place where your data goes can come under a different law.
+   Go to the sovereignty kit: [aegis-sovereign-ai-explained](https://github.com/ams-builds/aegis-sovereign-ai-explained)
+
+8. **Do you know what to do on the day that your agent goes wrong?**
+   Without a plan, you lose time, and you can lose the records that show what happened.
+   Go to the incident response kit: [ai-incident-response-explained](https://github.com/ams-builds/ai-incident-response-explained)
 
 When you have your answers, use the one-page [CHECKLIST.md](CHECKLIST.md).

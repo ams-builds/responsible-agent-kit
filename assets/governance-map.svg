@@ -1,6 +1,6 @@
 <svg viewBox="0 0 1200 524" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
 <title id="title">The agent governance map</title>
-<desc id="desc">Your AI agent at work must answer eight governance questions. Three have a kit today: identity, harm and risk tier. Five are coming: delegated authority, audit trail, behavioral rules, sovereignty and incident response.</desc>
+<desc id="desc">Your AI agent at work must answer eight governance questions: identity, harm, risk tier, delegated authority, audit trail, behavioral rules, sovereignty and incident response. Each question has a kit, and one install gives you all eight.</desc>
 <defs>
   <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
     <path d="M0,0 L8,4 L0,8 z" fill="#2d3142"/>
@@ -36,39 +36,37 @@
 <text x="629.5" y="248" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LIVE</text>
 <text x="737.0" y="265.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Risk tier</text>
 <text x="737.0" y="278.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">how much control does it need?</text>
-<rect x="882" y="230" width="258" height="76" rx="6" fill="rgba(45,49,66,0.03)" stroke="#7a8399" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="888" y="236" width="47" height="16" rx="4" fill="#ececec"/>
-<text x="911.5" y="248" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">COMING</text>
-<text x="1011.0" y="265.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#7a8399">Delegated authority</text>
-<text x="1011.0" y="278.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#7a8399">who gave it permission?</text>
-<rect x="60" y="322" width="258" height="76" rx="6" fill="rgba(45,49,66,0.03)" stroke="#7a8399" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="66" y="328" width="47" height="16" rx="4" fill="#ececec"/>
-<text x="89.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">COMING</text>
-<text x="189.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#7a8399">Audit trail</text>
-<text x="189.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#7a8399">can you prove what it did?</text>
-<rect x="334" y="322" width="258" height="76" rx="6" fill="rgba(45,49,66,0.03)" stroke="#7a8399" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="340" y="328" width="47" height="16" rx="4" fill="#ececec"/>
-<text x="363.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">COMING</text>
-<text x="463.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#7a8399">Behavioral rules</text>
-<text x="463.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#7a8399">what must it never do?</text>
-<rect x="608" y="322" width="258" height="76" rx="6" fill="rgba(45,49,66,0.03)" stroke="#7a8399" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="614" y="328" width="47" height="16" rx="4" fill="#ececec"/>
-<text x="637.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">COMING</text>
-<text x="737.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#7a8399">Sovereignty</text>
-<text x="737.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#7a8399">where does the data go?</text>
-<rect x="882" y="322" width="258" height="76" rx="6" fill="rgba(45,49,66,0.03)" stroke="#7a8399" stroke-width="1" stroke-dasharray="4,3"/>
-<rect x="888" y="328" width="47" height="16" rx="4" fill="#ececec"/>
-<text x="911.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">COMING</text>
-<text x="1011.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#7a8399">Incident response</text>
-<text x="1011.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#7a8399">what if it goes wrong?</text>
-<text x="600" y="448" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="9" font-weight="600" letter-spacing="0.06em" fill="#7a8399">THREE KITS ARE LIVE. FIVE MORE ARE COMING.</text>
+<rect x="882" y="230" width="258" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="888" y="236" width="31" height="16" rx="4" fill="#ececec"/>
+<text x="903.5" y="248" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LIVE</text>
+<text x="1011.0" y="265.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Delegated authority</text>
+<text x="1011.0" y="278.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">who gave it permission?</text>
+<rect x="60" y="322" width="258" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="66" y="328" width="31" height="16" rx="4" fill="#ececec"/>
+<text x="81.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LIVE</text>
+<text x="189.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Audit trail</text>
+<text x="189.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">can you prove what it did?</text>
+<rect x="334" y="322" width="258" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="340" y="328" width="31" height="16" rx="4" fill="#ececec"/>
+<text x="355.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LIVE</text>
+<text x="463.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Behavioral rules</text>
+<text x="463.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">what must it never do?</text>
+<rect x="608" y="322" width="258" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="614" y="328" width="31" height="16" rx="4" fill="#ececec"/>
+<text x="629.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LIVE</text>
+<text x="737.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Sovereignty</text>
+<text x="737.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">where does the data go?</text>
+<rect x="882" y="322" width="258" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="888" y="328" width="31" height="16" rx="4" fill="#ececec"/>
+<text x="903.5" y="340" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LIVE</text>
+<text x="1011.0" y="357.4" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Incident response</text>
+<text x="1011.0" y="370.4" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" fill="#4f5d75">what if it goes wrong?</text>
+<text x="600" y="448" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="9" font-weight="600" letter-spacing="0.06em" fill="#7a8399">EIGHT KITS. ONE INSTALL.</text>
 <line x1="40" y1="468" x2="1160" y2="468" stroke="rgba(45,49,66,0.12)" stroke-width="1"/>
 <text x="40" y="494" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" font-weight="600" letter-spacing="0.1em" fill="#7a8399">STATUS</text>
 <rect x="120" y="484" width="31" height="16" rx="4" fill="#ececec"/>
 <text x="135.5" y="496" text-anchor="middle" font-family="Geist, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LIVE</text>
 <text x="161" y="496" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">a kit you can use today</text>
-<line x1="466.6666666666667" y1="492" x2="496.6666666666667" y2="492" stroke="#7a8399" stroke-width="1" stroke-dasharray="4,3" marker-end="url(#arrowMuted)"/>
-<text x="506.6666666666667" y="496" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">planned, not built yet</text>
-<rect x="813.3333333333334" y="484" width="30" height="16" rx="4" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
-<text x="853.3333333333334" y="496" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">your agent</text>
+<rect x="640.0" y="484" width="30" height="16" rx="4" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<text x="680.0" y="496" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">your agent</text>
 </svg>

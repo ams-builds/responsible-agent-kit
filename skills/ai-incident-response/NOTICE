@@ -1,0 +1,56 @@
+ai-incident-response-explained
+Copyright 2026 AMS
+
+This repository is an independent plain-language explainer and agent skill
+based on the following work:
+
+  Title:   AI Incident Response Framework, V1.0
+  Author:  Coalition for Secure AI (CoSAI), Workstream 2: Preparing Defenders
+           for a Changing Cybersecurity Landscape (https://github.com/cosai-oasis),
+           an OASIS Open Project (https://github.com/oasis-open)
+  Source:  https://github.com/cosai-oasis/ws2-defenders/blob/main/incident-response/AI-Incident-Response.md
+           repository https://github.com/cosai-oasis/ws2-defenders at commit b8dbec1 (2026-10-06)
+  Date:    Approved by the CoSAI Project Governing Board on 27 October 2025
+
+Licences that apply to the source:
+  - The source repository is licensed under the Apache License 2.0 (its
+    LICENSE.md, copied in this repository as LICENSE).
+  - The source repository README states CC BY 4.0 for documentation and data
+    contributions (https://creativecommons.org/licenses/by/4.0/).
+  - The source document carries the OASIS copyright notice below, which permits
+    derivative works that explain it, provided the notice is included. It is
+    included here unchanged.
+
+This repository is licensed under the Apache License 2.0.
+It is not an official CoSAI or OASIS work product, and CoSAI and OASIS have not
+reviewed or endorsed it.
+
+Changes from the source:
+  1. The main concepts are rewritten in Simplified Technical English for small
+     teams and solo builders.
+  2. Three new diagrams (assets/).
+  3. A new agent skill (SKILL.md) that helps a small team make an incident plan.
+     Its adaptations for small teams are marked as suggestions.
+  4. The playbooks, case studies and architecture tables are not copied. The
+     skill refers to them by section number.
+
+Also referenced (link only, not used as a source): RiskKernel by prashar32,
+https://github.com/prashar32/riskkernel (Apache License 2.0).
+
+Language: written in Simplified Technical English (ASD-STE100). Idea from
+Andrej Karpathy (https://github.com/karpathy,
+https://x.com/karpathy/status/2105819303471976479). Text written and checked with
+the simplified-technical-english agent skill by pili (https://github.com/0xpili),
+https://github.com/0xpili/simplified-technical-english. ASD-STE100 is a
+specification and registered trade mark of ASD (AeroSpace and Defence Industries
+Association of Europe). This repository is not related to ASD.
+
+----------------------------------------------------------------------
+OASIS copyright notice of the source document (reproduced as required)
+----------------------------------------------------------------------
+
+Copyright © OASIS Open 2025. All Rights Reserved. This document has been produced under the process and license terms stated in the OASIS Open Project rules: [https://www.oasis-open.org/policies-guidelines/open-projects-process/](https://www.oasis-open.org/policies-guidelines/open-projects-process/). This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published, and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this section are included on all such copies and derivative works. The limited permissions granted above are perpetual and will not be revoked by OASIS or its successors or assigns. This document and the information contained herein is provided on an "AS IS" basis and OASIS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY OWNERSHIP RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. OASIS AND ITS MEMBERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THIS DOCUMENT OR ANY PART THEREOF. The name "OASIS" is a trademark of OASIS, the owner and developer of this document, and should be used only to refer to the organization and its official outputs. OASIS welcomes reference to, and implementation and use of, documents, while reserving the right to enforce its marks against misleading uses. Please see [https://www.oasis-open.org/policies-guidelines/trademark/](https://www.oasis-open.org/policies-guidelines/trademark/) for above guidance.
+
+This is a Non-Standards Track Work Product. The patent provisions of the OASIS IPR Policy do not apply.
+
+Non-Standards Track Copyright © OASIS Open 2025. All Rights Reserved. This document was last revised or approved by the CoSAI Open Project on the above date.

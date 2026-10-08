@@ -1,0 +1,55 @@
+agent-receipts-explained
+Copyright 2026 AMS
+
+This repository is an independent plain-language guide and agent skill based on:
+
+  Agent Receipts (protocol) and Obsigna (reference tools)
+  Source: https://github.com/agent-receipts/obsigna
+  Authors: Otto Jongerius (https://github.com/ojongerius) and the Agent Receipts project
+           (https://github.com/agent-receipts)
+  Version explained: commit 77f36a2 (25 September 2026); specification document Draft v0.5.0;
+                     changelog version 0.6.0
+  Licences: Apache License 2.0 for the repository; MIT License for the protocol
+            specification in spec/
+
+This repository is licensed under the Apache License 2.0 (see LICENSE). The source
+repository has no NOTICE file. This repository is not an official part of the source project.
+
+Changes from the source:
+1. The main concepts are written again in Simplified Technical English.
+2. Three new diagrams (assets/).
+3. A new agent skill (SKILL.md) that applies the protocol to one agent.
+4. No source code, specification text, schemas, or test vectors are copied. The guide and the
+   skill refer to source files by their paths.
+
+Notice for the protocol specification (spec/ in the source), which this guide describes:
+
+  MIT License
+
+  Copyright (c) 2026 agnt-rcpt
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+Language: the text is in Simplified Technical English (ASD-STE100).
+- Idea to ask an AI model to write in ASD-STE100: Andrej Karpathy (https://github.com/karpathy),
+  post on X: https://x.com/karpathy/status/2105819303471976479
+- Text and checks: the simplified-technical-english agent skill by pili
+  (https://github.com/0xpili), https://github.com/0xpili/simplified-technical-english
+- ASD-STE100 is a specification and registered trade mark of ASD (AeroSpace and Defence
+  Industries Association of Europe). This repository is not related to ASD.

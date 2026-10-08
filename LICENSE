@@ -1,3 +1,7 @@
+Scope: this MIT License covers the files of this repository except the skills/
+folder. Each skills/<name>/ folder keeps the license of its kit; see the
+LICENSE and NOTICE files inside that folder.
+
 MIT License
 
 Copyright (c) 2026 AMS
