@@ -1,6 +1,6 @@
 # Jargon Buster
 
-Plain-English explanations of the technical words in this kit.
+Simple meanings for the technical words in this kit.
 
 **Agent**
 An AI system that does tasks for you. It can use tools, read data, and take actions, not only answer questions.
@@ -20,6 +20,9 @@ A record of the permissions that a person gives to an agent for one task. It sho
 **Behavioral rules file**
 A file that lists the rules of an agent: what it must do, what it must never do, and when it must stop and ask a person. Some agents call this file `SOUL.md`.
 
+**Carbon intensity**
+The quantity of carbon that the electricity grid makes for each unit of electricity. It changes with the time and the place.
+
 **Conformance level**
 A level that shows how many of the rules in a specification an agent meets. A higher level means that the agent meets more of the rules.
 
@@ -34,6 +37,12 @@ The country or region where data is kept and processed.
 
 **Delegated authority**
 Permission that one person gives to an agent so that the agent can act for that person. The permission must have limits, and the person must be able to stop it.
+
+**Embodied carbon**
+The carbon that the manufacture of the computers and chips made. A part of it belongs to each run of your agent.
+
+**Energy**
+The electricity that the computers use to run your agent. People measure it in kilowatt-hours (kWh).
 
 **Evidence**
 A file, a log, or a test result that shows that a control works. The memory of an agent is not evidence.
@@ -56,8 +65,17 @@ A short, written plan for one type of incident. It tells you the steps to do, in
 **Receipt**
 A signed record of one action of an agent. The receipts link in a chain, so you can see if somebody changed or removed a record.
 
+**Reduction lever**
+A change that makes the footprint of your agent smaller, for example a smaller model for easy steps.
+
 **Risk tier**
 A level of risk, from low to high. A higher tier needs more controls.
 
+**SCI**
+Software Carbon Intensity. A specification from the Green Software Foundation that calculates carbon for each unit of work, for example one run. It is also the standard ISO/IEC 21031.
+
 **Sovereignty**
 Control over where your data goes and which laws apply to it. For example, data that goes to a different country can come under the laws of that country.
+
+**Water footprint**
+The water that a data center uses to cool its servers, and the water that the production of its electricity uses.

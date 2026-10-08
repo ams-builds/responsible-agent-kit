@@ -43,4 +43,9 @@ Use this page to record what you did for your agent. Each item links to the kit 
 - [ ] Name the person who can stop the agent, and write the first step to contain it. ([incident response kit](https://github.com/ams-builds/ai-incident-response-explained#what-does-it-do))
 - [ ] Keep the records that you will need after an incident, and write a short plan for one likely incident. ([incident response kit](https://github.com/ams-builds/ai-incident-response-explained#what-does-it-do))
 
+## Green agents
+
+- [ ] Estimate the energy, carbon, and water of one run as a range, from your token counts. Write down the assumptions. ([green agents kit](https://github.com/ams-builds/green-agents-explained#what-does-it-do))
+- [ ] Pick three reduction levers, and do the same estimate each month to see the trend. ([green agents kit](https://github.com/ams-builds/green-agents-explained#how-does-it-work))
+
 This checklist does not make your agent legal, certified, or approved. It gives you a structure.

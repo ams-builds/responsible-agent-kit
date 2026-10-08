@@ -1,24 +1,24 @@
-# agent-governance-kit
+# Responsible Agent Kit
 
 ## What is it?
 
-This repository is the front door to a set of simple guides that help you keep AI agents at work safe and under control. Each kit explains one governance question in simple words. Each kit also gives a ready-made skill that your AI agent can use with you. This repository links the eight kits together, and it gives you a place to start.
+This repository is the Responsible Agent Kit. It is the front door to a set of simple guides. The guides help you keep AI agents at work safe, under control, and light on the planet. Each kit explains one governance question in simple words. Each kit also gives a ready-made skill that your AI agent can use with you. This repository links the nine kits together, and it gives you a place to start.
 
-![A map of eight governance questions for an AI agent at work: identity, harm, risk tier, delegated authority, audit trail, behavioral rules, sovereignty, and incident response. Each question has a kit, and one install gives you all eight.](assets/governance-map.svg)
+![A map of nine questions for an AI agent at work: identity, harm, risk tier, delegated authority, audit trail, behavioral rules, sovereignty, incident response, and green agents. Each question has a kit, and one install gives you all nine.](assets/governance-map.svg)
 
 **One step to install, and you get all of this:**
 
 ```
-npx skills add ams-builds/agent-governance-kit
+npx skills add ams-builds/responsible-agent-kit
 ```
 
-This command installs all eight agent skills for Claude Code, Codex, GitHub Copilot, and other agents.
+This command installs all nine agent skills for Claude Code, Codex, GitHub Copilot, and other agents.
 
 *Do you want simple meanings for the technical words? Refer to the [Jargon Buster](JARGON.md).*
 
 ## What problem does it solve?
 
-When you put an AI agent to work, it can act for you, use your data, and affect other people. Most guidance on agent governance is long and written for specialists. This kit tells you which questions to answer first, and it points you to a short guide for each question.
+When you put an AI agent to work, it can act for you, use your data, and affect other people. Most guidance on agent governance is long and written for specialists. This kit tells you which questions to answer first, and it points you to a short guide for each question. It also helps you see the energy, carbon, and water that your agent uses.
 
 ## Who is it for?
 
@@ -26,7 +26,7 @@ This kit is for small teams, teams that grow quickly, and solo builders who put 
 
 ## Start here
 
-Answer the eight questions in [START-HERE.md](START-HERE.md). Each answer points you to the correct kit. Then use the one-page [CHECKLIST.md](CHECKLIST.md).
+Answer the nine questions in [START-HERE.md](START-HERE.md). Each answer points you to the correct kit. Then use the one-page [CHECKLIST.md](CHECKLIST.md).
 
 ## What is in the kit?
 
@@ -40,6 +40,7 @@ Answer the eight questions in [START-HERE.md](START-HERE.md). Each answer points
 | Behavioral rules: what must it never do? | [agent-governance-spec-explained](https://github.com/ams-builds/agent-governance-spec-explained) | `agent-behavior-rules` | Live |
 | Sovereignty: where does the data go? | [aegis-sovereign-ai-explained](https://github.com/ams-builds/aegis-sovereign-ai-explained) | `sovereignty-check` | Live |
 | Incident response: what if it goes wrong? | [ai-incident-response-explained](https://github.com/ams-builds/ai-incident-response-explained) | `ai-incident-response` | Live |
+| Green agents: what does it cost the planet? | [green-agents-explained](https://github.com/ams-builds/green-agents-explained) | `green-agent-footprint` | Live |
 
 ## How to install
 
@@ -47,10 +48,10 @@ The skills use the open [Agent Skills](https://agentskills.io) format, so they w
 
 ### One command for all agents
 
-If you have Node.js, run this command in a terminal. The command installs all eight skills for Claude Code, Codex, GitHub Copilot, and other agents.
+If you have Node.js, run this command in a terminal. The command installs all nine skills for Claude Code, Codex, GitHub Copilot, and other agents.
 
 ```
-npx skills add ams-builds/agent-governance-kit
+npx skills add ams-builds/responsible-agent-kit
 ```
 
 To install only one skill, add `--skill <name>`, for example `--skill rahp-harm-check`. To get the latest versions later, run `npx skills update`. The command uses [skills](https://github.com/vercel-labs/skills) by [Vercel](https://github.com/vercel-labs).
@@ -93,6 +94,7 @@ The kits are based on open work by these persons and groups:
 4. Behavioral rules: [OpenA2A](https://github.com/opena2a-standards).
 5. Sovereignty: [InfiniEdge AI at LF Edge](https://github.com/lfedgeai).
 6. Incident response: the [Coalition for Secure AI (CoSAI)](https://github.com/cosai-oasis), an OASIS Open project.
+7. Green agents: the [Green Software Foundation](https://github.com/Green-Software-Foundation), with Green Software Patterns by [Navveen Balani](https://github.com/navveenb).
 
 This repository is an independent project. It is not an official part of these source projects.
 
@@ -102,4 +104,4 @@ The [MIT License](LICENSE) applies to the files of this repository, but not to t
 
 ---
 
-*New words? The [Jargon Buster](JARGON.md) gives plain-English explanations of governance, risk tier, delegated authority, audit trail, sovereignty, and more.*
+*New words? The [Jargon Buster](JARGON.md) gives simple meanings for governance, risk tier, delegated authority, audit trail, sovereignty, carbon intensity, and more.*

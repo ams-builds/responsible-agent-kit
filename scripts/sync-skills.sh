@@ -20,3 +20,4 @@ sync agent-receipts-explained       agent-receipts-audit
 sync agent-governance-spec-explained agent-behavior-rules
 sync aegis-sovereign-ai-explained   sovereignty-check
 sync ai-incident-response-explained ai-incident-response
+sync green-agents-explained         green-agent-footprint

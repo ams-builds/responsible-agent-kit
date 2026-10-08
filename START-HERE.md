@@ -1,6 +1,6 @@
 # Start here
 
-Answer these eight questions about your agent. Each "yes" points you to a kit.
+Answer these nine questions about your agent. Each "yes" points you to a kit.
 
 1. **Does your agent act under a name that other people or agents must trust?**
    A name is easy to copy, so people need proof that the agent is really yours.
@@ -33,5 +33,9 @@ Answer these eight questions about your agent. Each "yes" points you to a kit.
 8. **Do you know what to do on the day that your agent goes wrong?**
    Without a plan, you lose time, and you can lose the records that show what happened.
    Go to the incident response kit: [ai-incident-response-explained](https://github.com/ams-builds/ai-incident-response-explained)
+
+9. **Does your agent run many times each day, or use a large model?**
+   Each run uses electricity and water, and the cost grows with each turn of the agent.
+   Go to the green agents kit: [green-agents-explained](https://github.com/ams-builds/green-agents-explained)
 
 When you have your answers, use the one-page [CHECKLIST.md](CHECKLIST.md).

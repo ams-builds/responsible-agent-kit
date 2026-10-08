@@ -1,0 +1,59 @@
+green-agents-explained
+
+This product includes concepts, terms, and file references from open work by
+the Green Software Foundation (https://github.com/Green-Software-Foundation).
+
+1. Reference implementations
+   Source: https://github.com/Green-Software-Foundation/reference-implementations
+   Commit 122780ca36b07a9a53d5a1a5f63514157958f1d9 (2 September 2026)
+   Mainly: tools/gsf/agentic-ai-impact-explorer and
+   specifications/sci-for-ai/gsf/llm-inference
+   License: MIT License, Copyright (c) 2026 Green Software Foundation.
+   No code is copied. The full MIT License text is in the LICENSE file of the source.
+
+2. SCI for AI specification
+   Source: https://sci-for-ai.greensoftware.foundation/ and
+   https://github.com/Green-Software-Foundation/sci-ai
+   Commit e8d3534f72b26e7b114c9054050db60f4543bb60 (7 September 2026)
+   The specification materials are "Copyright (c) 2021 Joint Development Foundation
+   Projects, LLC, GSF Series and its contributors. All rights reserved."
+   This guide only describes the specification in new words and links to it.
+   It does not copy specification text.
+
+3. Green Software Patterns
+   Source: https://github.com/Green-Software-Foundation/patterns
+   Commit 36ccf754849bce89af87fb5222f7bce069cd2ffd (10 September 2026)
+   License: CC BY 4.0 (Creative Commons Attribution 4.0 International).
+   License text: https://creativecommons.org/licenses/by/4.0/
+   The reduction levers adapt ideas (new words, not copied text) from these patterns,
+   all submitted by Navveen Balani (https://github.com/navveenb):
+   - Use right-sized and energy-efficient AI models
+     (docs/development/right-sized-energy-efficient-ai-models.md)
+   - Optimize agent orchestration to reduce unnecessary model calls
+     (docs/development/optimize-agent-orchestration-reduce-model-calls.md)
+   - Use on-demand execution for AI and agent workloads
+     (docs/architecture/system-topology/on-demand-execution-ai-agent-workloads.md)
+   - Use carbon-aware scheduling and region selection for AI workloads
+     (docs/operations/carbon-aware-ai-scheduling.md)
+   Changes: the ideas are summarized in Simplified Technical English and combined
+   into one list of levers.
+
+This repository is an independent guide. It is not an official part of the
+Green Software Foundation, and the Foundation did not review it.
+
+Changes from the sources:
+- The main concepts are written again in Simplified Technical English.
+- The three diagrams in assets/ are new.
+- SKILL.md is a new agent skill (Agent Skills format) that helps one person
+  estimate the footprint of one agent.
+- No code, figures, or specification text are copied.
+
+Language
+--------
+The text is in Simplified Technical English (ASD-STE100).
+- Idea to ask an AI model to write in ASD-STE100: Andrej Karpathy (https://github.com/karpathy),
+  post on X: https://x.com/karpathy/status/2105819303471976479
+- Text and checks: the simplified-technical-english agent skill by pili
+  (https://github.com/0xpili), https://github.com/0xpili/simplified-technical-english
+- ASD-STE100 is a specification and registered trade mark of ASD (AeroSpace and Defence
+  Industries Association of Europe). This repository is not related to ASD.
