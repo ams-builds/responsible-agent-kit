@@ -16,11 +16,11 @@ This work is an adaptation of these sources:
 
 The RAHP Toolkit is a GitHub fork of the DTG RAHP Toolkit. The RAHP Toolkit README states that it keeps its DTG origin as provenance.
 
-This is an independent plain-language explainer. It is not an official part of either source. The authors of the sources do not endorse it.
+This is an independent guide. It is not an official part of either source. The authors of the sources do not endorse it.
 
 ## Changes
 
-1. I wrote new plain-language text in Simplified Technical English for persons who are not specialists (`README.md`, `JARGON.md`).
+1. I wrote new text in simple words, in Simplified Technical English for persons who are not specialists (`README.md`, `JARGON.md`).
 2. I wrote an agent skill (`SKILL.md`) in the open Agent Skills format. The skill applies a small part of the RAHP method to one app or agent. It uses the six role personas, the 24 harm pattern names, the result types, and the control plane dispositions from the source, in summary form.
 3. I made three new diagrams (`assets/`).
 4. I changed some terms to plain words. Examples: "proposition" became "claim", and `INDETERMINATE` became "NOT SURE".

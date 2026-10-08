@@ -5,7 +5,7 @@ description: Map where the data of an AI agent goes (model provider, tools, stor
 
 # Sovereignty check
 
-This skill helps a small team to find where the data of its AI agent goes. It also finds which law applies, and the proof. The ideas come from [AegisSovereignAI](https://github.com/lfedgeai/AegisSovereignAI) by [InfiniEdge AI](https://github.com/lfedgeai) at LF Edge (commit `0917127`). The four questions and the data map are a plain-language method for small teams. They are not part of the source.
+This skill helps a small team to find where the data of its AI agent goes. It also finds which law applies, and the proof. The ideas come from [AegisSovereignAI](https://github.com/lfedgeai/AegisSovereignAI) by [InfiniEdge AI](https://github.com/lfedgeai) at LF Edge (commit `0917127`). The four questions and the data map are a method for small teams. They are not part of the source.
 
 ## Rules
 

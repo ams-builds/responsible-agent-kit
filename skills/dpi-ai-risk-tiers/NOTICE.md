@@ -9,9 +9,9 @@
 
 ## Changes
 
-This repository is an adapted work. It is an independent plain-language explainer, and it is not an official part of the source project.
+This repository is an adapted work. It is an independent guide, and it is not an official part of the source project.
 
-1. I wrote a plain-language explanation of the risk tier method in Simplified Technical English (`README.md`, `JARGON.md`).
+1. I explained the risk tier method in simple words, in Simplified Technical English (`README.md`, `JARGON.md`).
 2. I wrote an agent skill that applies the method (`SKILL.md`). The skill quotes the source tier thresholds, the tier table, and short passages, with the source file paths.
 3. I made three new diagrams (`assets/`).
 4. I used only a small part of the source.
