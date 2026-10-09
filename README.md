@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This repository is the Responsible Agent Kit. It is the front door to a set of simple guides. The guides help you keep AI agents at work safe, under control, and light on the planet. Each kit explains one governance question in simple words. Each kit also gives a ready-made skill that your AI agent can use with you. This repository links the nine kits together, and it gives you a place to start.
+This repository is the Responsible Agent Kit. It is the front door to a set of easy-to-understand guides. The guides help you keep AI agents at work safe, under control, and light on the planet. Each kit explains one governance question in simple words. Each kit also gives a ready-made skill that your AI agent can use with you. This repository links the nine kits together, and it gives you a place to start.
 
 ![A map of nine questions for an AI agent at work: identity, harm, risk tier, delegated authority, audit trail, behavioral rules, sovereignty, incident response, and green agents. Each question has a kit, and one install gives you all nine.](assets/governance-map.svg)
 
